@@ -1,1 +1,3 @@
-Basta clonar o repositório e executar o arquivo (é um arquivo executável no windows), mas também deixei em .py para quem queira estudar o código
+Basta clonar o repositório, abrir a o arquivo calculadora.py na sua IDE e executar o seguinte comando no terminal:
+
+python calculadora.py
